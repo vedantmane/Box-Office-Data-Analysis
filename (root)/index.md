@@ -2707,8 +2707,5 @@ plt.title("Runtime versus Revenue")
 
 ![png](output_57_1.png)
 
-
-
 ```python
-
 ```
